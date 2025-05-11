@@ -39,6 +39,7 @@ Analyze user activity, engagement, and identify trends on a social media platfor
   - Hashtag Popularity
   - Engagement Trends
 - **Reporting**: Delivered insights on user activity, photo engagement, and platform trends for marketing and investor decision-making.
+  
 [💾 Click here to view the SQL Query File](https://github.com/AmudhanAR/Instagram-User-Analytics/blob/main/SQL%20Instagram%20Analytics(trainity).sql)
 
 ## 📊 Results
@@ -46,7 +47,9 @@ Analyze user activity, engagement, and identify trends on a social media platfor
 - **Inactive Users**: Users who've never posted, suggesting re-engagement opportunities.
 - **Popular Hashtags**: Trending hashtags aligning brand posts with popular tags.
 - **Engagement Trends**: Average posts per user, photo-to-user ratio, and overall platform activity rates.
+  
 [📊 Click here to view the Results Presentation](https://github.com/AmudhanAR/Instagram-User-Analytics/blob/main/Instagram%20User%20Analytics.pptx)
+
 ---
 
 ## 📂 Repository Structure
